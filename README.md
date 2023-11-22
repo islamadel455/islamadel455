@@ -12,12 +12,12 @@
 
 <br />
 
-Hi, I'm [islam adel ali ](https://ammar2852021.github.io/mero/) A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source .
+Hi, I'm [islam adel ali ](https://github.com/islamadel455) A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source .
 
 
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
    -->
-- 💼 Any Freelance Work ? Do Reach [Email](mailto:AmmarAhmed132004@outlook.com) :)
+- 💼 Any Freelance Work ? Do Reach [Email](mailto:islamadel455@gmail.com) :)
 - 💬 Ask Me About Anything I Am Happy To Help .
 
 <!--  
